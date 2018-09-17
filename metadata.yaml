@@ -1,0 +1,22 @@
+_repo: Kauppias-taskussa-Yksinaytoksinen-ilveily_52279
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kahra, Aatami
+    gutenberg_agent_id: '46756'
+    url: http://www.gutenberg.org/2009/agents/46756
+description: ''
+gutenberg_issued: '2016-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52279'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama'
+- !lcc 'PH'
+- GITenberg
+title: 'Kauppias taskussa: Yksinäytöksinen ilveily'
+url: http://www.gutenberg.org/ebooks/52279
